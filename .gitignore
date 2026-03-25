@@ -3,18 +3,18 @@
 .vscode/
 node_modules/
 
-# AI Rules generated files
-.claude/agents/
-.cursor/rules/
-.gemini/settings.json
-.github/copilot-instructions.md
-.mcp.json
-.windsurf/
-AGENTS.md
-CLAUDE.md
-GEMINI.md
-
 # MkDocs
 site/
 .cache/
 .venv/
+
+# AI Rules generated files
+.claude/
+.cursor/
+.gemini/
+.windsurf/
+.github/copilot-instructions.md
+.mcp.json
+AGENTS.md
+CLAUDE.md
+GEMINI.md
